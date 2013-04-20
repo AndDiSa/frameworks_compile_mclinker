@@ -7,6 +7,7 @@
 //
 //===----------------------------------------------------------------------===//
 #include <mcld/Support/raw_ostream.h>
+#include <unistd.h>
 
 using namespace mcld;
 
